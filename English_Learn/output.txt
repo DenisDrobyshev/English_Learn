@@ -1,0 +1,36 @@
+учитель | teacher | 4
+что | what | 3
+ученик | learner | 2
+с | p. | 2
+ты | ration | 2
+я | . | 2
+класс | grade | 2
+потому | because | 2
+вы | vy | 2
+хотеть | want | 1
+поговорить | to chat. | 1
+сказать | tell | 1
+нужно | necessary than what you need for this | 1
+студент | student | 1
+у | - | 1
+проблема | Problem | 1
+понимание | Understanding | 1
+алгоритм | Algorithm | 1
+который | which the | 1
+объяснить | explain | 1
+последний | last | 1
+математика | Mathematics | 1
+это | is | 1
+вероятно | probably | 1
+отвлекаться | Be side-tracked | 1
+в | in | 1
+садиться | to land | 1
+мы | we're | 1
+пойти | to go | 1
+вместе | together with&#x0D; | 1
+должный | Due | 1
+подготовиться | Prepare | 1
+к | к | 1
+экзамен | exam | 1
+спасибо | thank you | 1
+большой | large | 1
